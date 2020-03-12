@@ -1,4 +1,4 @@
-from coronaContryScraper import CoronaScraper
+from CoronaContryScraper import CoronaScraper
 
 scraper = CoronaScraper()
 
